@@ -1,0 +1,3 @@
+package module6 // import "."
+
+func FunctionForModule6GoDoc()
