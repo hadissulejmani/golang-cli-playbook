@@ -1,5 +1,7 @@
 github.com/codemodus/kace v0.5.1 h1:4OCsBlE2c/rSJo375ggfnucv9eRzge/U5LrrOZd47HA=
 github.com/codemodus/kace v0.5.1/go.mod h1:coddaHoX1ku1YFSe4Ip0mL9kQjJvKkzb9CfIdG1YR04=
+github.com/dominikh/go-mode.el v1.5.0 h1:04xoxEXj6LpIMrCN8MmTcTKMSC8YLoWsDB0of+Qklc4=
+github.com/dominikh/go-mode.el v1.5.0/go.mod h1:TEsDeCg/uNx64fKYWTlKzDInmkQgKthQQkMVG2TO6Sc=
 github.com/nathan-osman/go-sunrise v1.0.0 h1:mvjoVmXjmiHDSwKRA5t4T/1rNuHQDhodfQoxrUU39ck=
 github.com/nathan-osman/go-sunrise v1.0.0/go.mod h1:RcWqhT+5ShCZDev79GuWLayetpJp78RSjSWxiDowmlM=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
